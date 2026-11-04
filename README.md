@@ -1,19 +1,14 @@
 # Little Tools ☕
 
-A calm, coffee-and-green themed directory of 100 free and free-tier developer tools. Browse by category, search by name or task, and save favorites in your browser.
+A coffee-and-green themed directory of 140 developer tools. Search by tool name, category, or task; browse recommendations; and save favorites in your browser.
 
 ## Run locally
-
-Open `index.html` in a browser. The page is self-contained and does not require a build step.
+Open `index.html` in a browser. The site is self-contained and has no build step.
 
 ## Features
+- 140 free, open-source, and free-tier developer tools (including 40 new additions)
+- Search with relevant/close matches across tool names, descriptions, categories, and task keywords
+- In-site detail pages for each tool, with a direct provider link and related recommendations/alternatives
+- Category filters, saved favorites (stored in local storage), and responsive mobile layout
 
-- 100 curated tools across 10 categories
-- Live search across names, descriptions, and categories
-- Category filters and saved favorites (stored in local storage)
-- Responsive layout for mobile and desktop
-- Links open in a new tab; check each provider's site for current pricing and free-tier limits
-
-## Customize
-
-The tool directory and category list are in the `tools` and `categoryInfo` arrays in `index.html`.
+Provider plans can change. Check each provider's website for current pricing and free-tier limits.
